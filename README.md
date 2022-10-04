@@ -1,2 +1,5 @@
 This is the readme file for the tutorial repository.
-Change added in main branch
+<<<<<<< HEAD
+=======
+Change made in dazzling_feature branch to provoke conflict
+>>>>>>> dazzling_feature
